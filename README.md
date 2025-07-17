@@ -66,8 +66,8 @@ The **Customer Dashboard** provides insights for marketing and management teams 
 1. **Download**: Clone this repo or download the `.twb` file(s).
 2. **Open**: Use **Tableau Desktop** (version 202X.X or later recommended).
 3. **Data Source**:  
-   > _Ensure you have access to the **Sample Superstore** dataset._  
-   > _Or connect to your-data.csv inside the `data/` folder._
+   > _Ensure you connect Tableau to the file(s) inside the `datasets/` folder._  
+   > _These contain the necessary data for the dashboards to function properly._
 4. **Explore**:  
    - Use **dynamic year selection**  
    - Switch between dashboards  
@@ -79,23 +79,23 @@ The **Customer Dashboard** provides insights for marketing and management teams 
 
 _Add your dashboard screenshots here. Example:_
 
-![Sales Dashboard](SalesDashboard.png)  
-![Customer Dashboard](images/customer_dashboard.png)
+![Sales Dashboard](Sales_dashboard.png)  
+![Customer Dashboard](Customer_dashboard.png)
 
 ---
 
 ## 📂 Data Source
 
-> This project utilizes the **Sample Superstore Sales** dataset provided by Tableau.
-
+> This project uses data files located in the `datasets/` folder as the source for all Tableau visualizations.
 ---
 
 ## 👤 Author
 
 **Kartik Sharma**
 
-[LinkedIn Profile](#)  
+[LinkedIn Profile](https://www.linkedin.com/in/sh-kartik/)  
 [Tableau Public Profile](https://public.tableau.com/app/profile/kartik.sharma1671/vizzes)
+[🔗 View Dashboard on Tableau Public](https://public.tableau.com/app/profile/kartik.sharma1671/viz/SalesAndCustomerDashboard_17521591284010/SalesDashboard)
 
 ---
 

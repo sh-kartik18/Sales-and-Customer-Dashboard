@@ -77,7 +77,7 @@ The **Customer Dashboard** provides insights for marketing and management teams 
 
 ## 🖼️ Screenshots
 
-_Add your dashboard screenshots here. Example:_
+
 
 ![Sales Dashboard](Sales_dashboard.png)  
 ![Customer Dashboard](Customer_dashboard.png)
@@ -100,3 +100,11 @@ _Add your dashboard screenshots here. Example:_
 ---
 
 📌 *Feel free to fork and customize this dashboard as per your analysis needs!*
+
+# 📚 Credits
+
+This Tableau dashboard project is heavily inspired by the tutorials shared on the [Data with Baraa](https://www.youtube.com/channel/UC8_RSKwbU1OmZWNEoLV1tQg) YouTube channel.
+
+Their content was instrumental in shaping the structure, design, and logic of the dashboards.
+
+🙏 Big thanks to them for making high-quality learning resources available to the community!

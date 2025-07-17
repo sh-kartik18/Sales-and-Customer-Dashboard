@@ -94,7 +94,7 @@ _Add your dashboard screenshots here. Example:_
 **Kartik Sharma**
 
 [LinkedIn Profile](https://www.linkedin.com/in/sh-kartik/)  
-[Tableau Public Profile](https://public.tableau.com/app/profile/kartik.sharma1671/vizzes)
+[Tableau Public Profile](https://public.tableau.com/app/profile/kartik.sharma1671/vizzes)  
 [🔗 View Dashboard on Tableau Public](https://public.tableau.com/app/profile/kartik.sharma1671/viz/SalesAndCustomerDashboard_17521591284010/SalesDashboard)
 
 ---

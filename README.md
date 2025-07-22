@@ -94,7 +94,7 @@ These queries were written in **MySQL** and can be used independently or to powe
 ## 🚀 How to Use This Project
 
 1. **Download**: Clone this repo or download the `.twb` file(s).
-2. **Open**: Use **Tableau Desktop** (version 202X.X or later recommended).
+2. **Open**: Use **Tableau Public** (version 2025.2 or later recommended).
 3. **Data Source**:  
    > _Ensure you connect Tableau to the file(s) inside the `datasets/` folder._  
    > _These contain the necessary data for the dashboards to function properly._

@@ -61,8 +61,6 @@ The **Customer Dashboard** provides insights for marketing and management teams 
 
 ---
 
----
-
 ## 🧠 SQL-Based Business Insights
 
 This project also includes a **collection of advanced SQL queries** that derive deep insights from the same retail dataset, using techniques such as **window functions**, **CTEs**, **ranking**, and **rolling aggregates**.
@@ -90,9 +88,6 @@ These queries were written in **MySQL** and can be used independently or to powe
 1. Open `sales_cust_sql_analysis.sql` in your SQL editor (e.g., **MySQL Workbench**).
 2. Execute query blocks as needed.
 3. Optionally create SQL views from the queries for integration with BI tools.
-
----
-
 
 ---
 

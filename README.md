@@ -1,6 +1,12 @@
 # 📊 Sales & Customer Performance Dashboard
 
-This project features **two interactive Tableau dashboards** designed to provide key stakeholders, including sales managers and executives, with comprehensive insights into **sales performance** and **customer behavior**. These dashboards facilitate year-over-year analysis, trend identification, and a deeper understanding of customer segments to drive strategic decision-making.
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-blue?logo=mysql)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange?logo=tableau)
+![SQL](https://img.shields.io/badge/SQL-Window%20Functions-green)
+![CTE](https://img.shields.io/badge/CTE-Common%20Table%20Expressions-purple)
+![Business Analysis](https://img.shields.io/badge/Business%20Insights-Enabled-lightgrey)
+
+This project features two interactive **Tableau dashboards** and a companion set of advanced **SQL queries** designed to provide key stakeholders, including sales managers and executives, with comprehensive insights into **sales performance** and **customer behavior**. The dashboards enable **year-over-year analysis**, trend identification, and customer segmentation, while the SQL layer powers **deep-dive analytics** through techniques like **window functions**, **CTEs**, and **rolling aggregates** — uncovering actionable business insights and supporting strategic decision-making.
 
 ---
 

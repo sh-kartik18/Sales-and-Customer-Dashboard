@@ -61,6 +61,41 @@ The **Customer Dashboard** provides insights for marketing and management teams 
 
 ---
 
+---
+
+## 🧠 SQL-Based Business Insights
+
+This project also includes a **collection of advanced SQL queries** that derive deep insights from the same retail dataset, using techniques such as **window functions**, **CTEs**, **ranking**, and **rolling aggregates**.
+
+📄 **Query File**: [`sales_cust_sql_analysis.sql`](./sales_cust_sql_analysis.sql)
+
+### 📌 Key SQL Insights:
+
+| Insight | Description |
+|--------|-------------|
+| 📅 **Monthly Sales & Profit** | Chronological trend with formatted month labels |
+| 🏆 **Top 10 Customers by Profit** | Ranked using window functions (RANK) |
+| 🗺️ **Best Sub-Category by Region** | Regional leaders via partitioned ranking |
+| 📈 **YoY Sales Growth** | Calculates year-over-year percentage growth |
+| 🎖️ **Customer Loyalty Tiering** | Platinum / Gold / Silver segmentation using CASE |
+| 📊 **3-Month Rolling Avg** | Moving average to smooth volatility |
+| ⚙️ **Profit Per Unit** | Efficiency by sub-category (profit ÷ quantity) |
+
+These queries were written in **MySQL** and can be used independently or to power dashboards in Tableau, Power BI, or custom web apps.
+
+---
+
+### 💡 How to Run
+
+1. Open `sales_cust_sql_analysis.sql` in your SQL editor (e.g., **MySQL Workbench**).
+2. Execute query blocks as needed.
+3. Optionally create SQL views from the queries for integration with BI tools.
+
+---
+
+
+---
+
 ## 🚀 How to Use This Project
 
 1. **Download**: Clone this repo or download the `.twb` file(s).
